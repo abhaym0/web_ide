@@ -1,0 +1,21 @@
+.ground{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100vw;
+}
+
+.editor-con{
+  min-height: 60vh;
+  display: flex;
+}
+
+.file-node{
+  background: grey;
+  cursor: pointer;
+}
+
+.files{
+  padding: 20px;
+  font-size: x-large;
+}
